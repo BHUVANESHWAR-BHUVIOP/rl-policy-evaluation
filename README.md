@@ -19,7 +19,7 @@ Policy Improvement: Following policy evaluation, we update the policy using poli
 
 Convergence Check: After each policy improvement step, we check for convergence by comparing the current policy with the previous one. If there is no significant change across all states, the loop terminates, signifying that the optimal policy has been found.
 
-Name : BHUVANESHWAR V
+Name : BHUVANESHWAR V</BR>
 Reg Number :  212221240009
 
 ## POLICY IMPROVEMENT FUNCTION
